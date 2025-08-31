@@ -20,3 +20,12 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+
+# Add to .gitignore
+.env
+.env.local
+.env.*.local
+*.key
+secrets.txt
+config/secrets.json
